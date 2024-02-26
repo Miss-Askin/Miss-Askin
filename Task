@@ -1,0 +1,31 @@
+h1{
+    color:#;
+    font-size: pt;
+    font-family: '' ;   
+}
+
+p{
+    font-family: '', sans-serif;
+}
+
+body{
+    background: ;
+}
+
+    
+/* This code will make your items flow responsively */
+
+.callout-item {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.callout-info{
+    
+    display: flex;
+    margin: auto;
+    position: relative;
+
+}
+   
