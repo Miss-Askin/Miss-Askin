@@ -1,0 +1,17 @@
+      <!-- This is the code for my content - Copy and paste for each item... -->
+      <div class="callout-item">
+        <div class="callout-title"> Enter Title here </div>
+        <div class="callout-info">
+            <div class="callout-poster">
+                <img src="Enter image file name here" alt="">
+            </div>
+            <div class="callout-description">
+                <p>
+
+
+              
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- End of item content -->
