@@ -1,11 +1,13 @@
 h1{
-    color:#;
-    font-size: pt;
-    font-family: '' ;   
+    color: ;
+    font-size: ;
+    font-family:  ;   
 }
 
 p{
-    font-family: '', sans-serif;
+    font-family: ;
+    color: ;
+    font-size: ;
 }
 
 body{
