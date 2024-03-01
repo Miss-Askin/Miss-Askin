@@ -1,13 +1,15 @@
 h1{
     color: ;
     font-size: ;
-    font-family:  ;   
+    font-family:  ; 
+    text-align:  ;
 }
 
 p{
     font-family: ;
     color: ;
     font-size: ;
+    text-align:  ;
 }
 
 body{
